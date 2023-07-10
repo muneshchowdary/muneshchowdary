@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @muneshchowdary
-- 👀 I’m interested in easy coding
-- 🌱 I’m currently learning and working on python, terraform, groovy, git, aws, jenkins, json 
-- 💞️ I’m looking to collaborate on coding challanges
+- i am testing github actions for my poc
 
 <!---
 muneshchowdary/muneshchowdary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
